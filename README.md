@@ -1,5 +1,5 @@
 # US Inflation Dynamics & Monetary Policy
-
+<img src="data/giphy(3).gif" width="200">
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ARIMA-GARCH](https://img.shields.io/badge/Model-ARIMA--GARCH-orange)]()
