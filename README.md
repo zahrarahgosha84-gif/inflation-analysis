@@ -30,13 +30,13 @@ This project explores the relationship between **US inflation** and monetary pol
 - Rolling correlation analysis
 - Statistical summary of the dataset
 
-### 2. Time-Series Modeling (ARIMA)   <img src="data/money.gif" width="50">
+### 2. Time-Series Modeling (ARIMA)   
 
 - Modeling the underlying inflation trend
 - 12-month inflation forecasting
 - Residual diagnostics
 
-### 3. Hybrid ARIMA-GARCH Model   <img src="data/money.gif" width="50">
+### 3. Hybrid ARIMA-GARCH Model   
 
 - ARIMA models the conditional mean (trend)
 - GARCH models conditional variance (volatility)
