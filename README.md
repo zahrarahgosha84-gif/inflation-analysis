@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ARIMA-GARCH](https://img.shields.io/badge/Model-ARIMA--GARCH-orange)]()
 
-## Overview
+## Overview       <img src="data/money.gif" width="50">
 
 This project explores the relationship between **US inflation** and monetary policy (Federal Funds Rate). Using a two-phase analytical approach—**Exploratory Data Analysis (EDA)** followed by **advanced time-series modeling**—a hybrid **ARIMA-GARCH** model was developed to forecast both inflation trends and market volatility. The final model achieves an **RMSE of 0.409**, demonstrating high predictive accuracy. 
 <img src="data/giphy.gif" width="200">
@@ -20,7 +20,7 @@ This project explores the relationship between **US inflation** and monetary pol
 
 ---
 
-## Methodology
+## Methodology     <img src="data/money.gif" width="50">
 
 ### 1. Exploratory Data Analysis (EDA)
 
@@ -30,13 +30,13 @@ This project explores the relationship between **US inflation** and monetary pol
 - Rolling correlation analysis
 - Statistical summary of the dataset
 
-### 2. Time-Series Modeling (ARIMA)
+### 2. Time-Series Modeling (ARIMA)   <img src="data/money.gif" width="50">
 
 - Modeling the underlying inflation trend
 - 12-month inflation forecasting
 - Residual diagnostics
 
-### 3. Hybrid ARIMA-GARCH Model
+### 3. Hybrid ARIMA-GARCH Model   <img src="data/money.gif" width="50">
 
 - ARIMA models the conditional mean (trend)
 - GARCH models conditional variance (volatility)
@@ -44,7 +44,7 @@ This project explores the relationship between **US inflation** and monetary pol
 
 ---
 
-## Results
+## Results    <img src="data/money.gif" width="50">
 
 - **Final Forecast:** Reliable inflation predictions using the hybrid ARIMA-GARCH model
 - **Performance Metric:** RMSE = **0.409**
@@ -52,7 +52,7 @@ This project explores the relationship between **US inflation** and monetary pol
 
 ---
 
-## Technologies Used
+## Technologies Used   <img src="data/money.gif" width="50">
 
 - Python
 - Pandas
@@ -64,7 +64,7 @@ This project explores the relationship between **US inflation** and monetary pol
 
 ---
 
-## Getting Started
+## Getting Started  <img src="data/money.gif" width="50">
 
 ### Clone the Repository
 
@@ -90,7 +90,7 @@ and run all cells.
 
 ---
 
-## Repository Structure
+## Repository Structure   <img src="data/money.gif" width="50">
 
 ```text
 inflation-analysis/
