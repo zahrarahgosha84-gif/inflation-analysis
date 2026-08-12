@@ -15,8 +15,8 @@ This project explores the relationship between **US inflation** and monetary pol
 - Inflation exhibits cyclical patterns and significant regime shifts over decades.
 - The Federal Funds Rate generally follows inflation trends, confirming its role as a primary monetary policy tool.
 - The correlation between inflation and interest rates is positive (~0.71) but **not static**—it varies across different economic regimes.
-- ARIMA residuals show **volatility clustering**, indicating heteroskedasticity and justifying the use of a GARCH model.
-<img src="data/giphy.gif" width="300">
+- ARIMA residuals show **volatility clustering**, indicating heteroskedasticity and justifying the use of a GARCH model.<img src="data/giphy.gif" width="300">
+
 ---
 
 ## Methodology
