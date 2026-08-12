@@ -10,7 +10,9 @@
   <img src="data/giphy (3).gif" width="100%" height="250">
 </p>
 
-This project explores the relationship between **US inflation** and monetary policy (Federal Funds Rate). Using a two-phase analytical approach—**Exploratory Data Analysis (EDA)** followed by **advanced time-series modeling**—a hybrid **ARIMA-GARCH** model was developed to forecast both inflation trends and market volatility. The final model achieves an **RMSE of 0.409**, demonstrating high predictive accuracy. 
+This project looks at the relationship between US inflation and the Federal Funds Rate. I started with some basic exploratory analysis to understand the data and how the main variables were behaving over time. After that, I moved on to time-series modeling and built an ARIMA-GARCH model to capture both inflation trends and changes in volatility.
+
+The final model reached an RMSE of 0.409, which gave reasonably good forecasting results.
 
 
 ---
