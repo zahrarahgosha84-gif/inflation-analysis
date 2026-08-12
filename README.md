@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/giphy.gif" width="100%" height="250">
+  <img src="data/giphy(3).gif" width="100%" height="250">
 </p>
 
 # 📈 US Inflation Dynamics & Monetary Policy
