@@ -11,7 +11,7 @@ This project explores the relationship between **US inflation** and monetary pol
 
 ---
 
-## Key Findings
+## Key Findings   <img src="data/money.gif" width="50">
 
 - Inflation exhibits cyclical patterns and significant regime shifts over decades.
 - The Federal Funds Rate generally follows inflation trends, confirming its role as a primary monetary policy tool.
