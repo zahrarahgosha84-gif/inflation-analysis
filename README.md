@@ -1,13 +1,14 @@
-# US Inflation Dynamics & Monetary Policy
+<p align="center">
+  <img src="data/giphy.gif" width="100%" height="250">
+</p>
+
+# 📈 US Inflation Dynamics & Monetary Policy
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ARIMA-GARCH](https://img.shields.io/badge/Model-ARIMA--GARCH-orange)]()
 
-<p align="center">
-  <img src="data/giphy (3).gif" width="100%" height="300">
-</p>
-    
+
 
 This project explores the relationship between **US inflation** and monetary policy (Federal Funds Rate). Using a two-phase analytical approach—**Exploratory Data Analysis (EDA)** followed by **advanced time-series modeling**—a hybrid **ARIMA-GARCH** model was developed to forecast both inflation trends and market volatility. The final model achieves an **RMSE of 0.409**, demonstrating high predictive accuracy. 
 
