@@ -5,7 +5,7 @@
 [![ARIMA-GARCH](https://img.shields.io/badge/Model-ARIMA--GARCH-orange)]()
 
 <p align="center">
-  <img src="data/giphy (3).gif" width="100%" height="250">
+  <img src="data/giphy (3).gif" width="100%" height="300">
 </p>
 ## Overview       
 
